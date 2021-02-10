@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ayo Coba Notif</string>
+    <string name="msg_token_fmt">Token nih : %1$s</string>
+</resources>

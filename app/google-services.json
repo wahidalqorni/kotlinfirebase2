@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862834390050",
+    "project_id": "ayo-coba-notif",
+    "storage_bucket": "ayo-coba-notif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862834390050:android:96778aa63a6be6d7ec467b",
+        "android_client_info": {
+          "package_name": "com.mwahidalqorni.ayocobanotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862834390050-bbl5nfcf3c00cq5db33tc03ndl9mntdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_JabVkdbBuuQKwRTy0RFFA4plPz5ttm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862834390050-bbl5nfcf3c00cq5db33tc03ndl9mntdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
